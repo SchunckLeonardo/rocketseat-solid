@@ -6,7 +6,7 @@ GymPass Style App
 
 - [x] Must be possible sign in
 - [x] Must be possible authenticate
-- [ ] Must be possible get user profile signed
+- [x] Must be possible get user profile signed
 - [ ] Must be possible get check-in amount by user signed
 - [ ] Must be possible user get check-in history
 - [ ] Must be possible user search for near gyms
