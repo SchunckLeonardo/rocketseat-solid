@@ -11,9 +11,7 @@ interface GetUserProfileUseCaseResponse {
 }
 
 export class GetUserProfileUseCase {
-  constructor(private usersRepository: UsersRepository) {
-    this.usersRepository = usersRepository
-  }
+  constructor(private usersRepository: UsersRepository) {}
 
   async execute({
     userId,
