@@ -1,6 +1,6 @@
 # App
 
-GymPass Style App
+GymPass Style App Rocketseat
 
 ## RFs (Requisitos Funcionais)
 
